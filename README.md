@@ -1,6 +1,6 @@
 Hi, I'm Honeyyy🍯 
 # 💫 About Me:
-Computer engineering student<br>Exploring & Learning<br>Make Frontend Websites
+👩‍💻Computer engineering student<br>👻Exploring & Learning<br>🤝Make Frontend Websites
 
 
 # 💻 Tech Stack:
